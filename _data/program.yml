@@ -1,0 +1,37 @@
+title: "Mathematical Foundations of Contemporary Scientific Research"
+subtitle: "Online Refresher Course"
+dates: "15-July-2026 to 28-July-2026"
+center: "Malaviya Mission Teacher Training Centre (MMTTC)"
+university: "Kannur University"
+address: "Thavakkara, Civil Station. P.O., Kannur District, Kerala - 670 002"
+philosophy: |
+  The central philosophy of this refresher course is to present mathematics as a foundational language of modern science and technology, viewed from the perspective of a broad scientific audience rather than that of specialists alone.
+objectives:
+  - "Exposing participants to important mathematical ideas, themes, and developments that significantly influence contemporary scientific research."
+  - "Ensuring concepts remain accessible to faculty members from diverse academic backgrounds."
+  - "Emphasizing intuition, motivation, practical applications, historical development, and cross-disciplinary connections with science and technology over strictly technical details and rigorous proofs."
+  - "Helping participants appreciate the overarching beauty, power, and relevance of mathematics across various disciplines."
+target_audience:
+  - "Mathematics"
+  - "Statistics"
+  - "Physics"
+  - "Chemistry"
+  - "Computer Science"
+  - "Other allied Science and Technology disciplines"
+features:
+  duration: "12 working days"
+  daily_schedule: "4 daily sessions"
+  session_length: "90 minutes per session"
+  cas: "Considered for Career Advancement Scheme (CAS)"
+  fee: "None (No Registration Fee)"
+  mode: "Online"
+registration:
+  portals:
+    - name: "UGC Malaviya Mission Portal"
+      url: "https://mmc.ugc.ac.in/"
+    - name: "MMTTC Kannur University Portal"
+      url: "https://mmttc.kannuruniversity.ac.in/"
+contacts:
+  director: "Programme Director, MMTTC Kannur University"
+  phone: "0497-2700368, 9446353952"
+  email: "ugchrdc@kannuruniv.ac.in"

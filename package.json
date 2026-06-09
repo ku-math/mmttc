@@ -1,0 +1,17 @@
+{
+  "name": "mmttc-website",
+  "version": "1.0.0",
+  "description": "MMTTC Kannur University Refresher Course Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "js-yaml": "^4.1.0"
+  }
+}

@@ -1,0 +1,256 @@
+---
+layout: base.njk
+---
+
+<!-- Hero Section -->
+<section class="hero-section">
+  <div class="hero-bg-overlay"></div>
+  <div class="hero-container">
+    <div class="hero-badge">{{ program.center }}</div>
+    <h1 class="hero-title">{{ program.title }}</h1>
+    <p class="hero-subtitle">{{ program.subtitle }} &bull; {{ program.university }}</p>
+    
+    <div class="hero-meta">
+      <div class="meta-item">
+        <i class="fa-solid fa-calendar-days"></i>
+        <span>{{ program.dates }}</span>
+      </div>
+      <div class="meta-item">
+        <i class="fa-solid fa-laptop"></i>
+        <span>Mode: {{ program.features.mode }}</span>
+      </div>
+      <div class="meta-item">
+        <i class="fa-solid fa-indian-rupee-sign"></i>
+        <span>{{ program.features.fee }}</span>
+      </div>
+    </div>
+
+    <div class="hero-actions">
+      <a href="#register" class="btn btn-primary btn-lg">Register Now <i class="fa-solid fa-arrow-right-to-bracket"></i></a>
+      <a href="#about" class="btn btn-outline btn-lg">Learn More <i class="fa-solid fa-circle-info"></i></a>
+    </div>
+  </div>
+</section>
+
+<!-- About Section -->
+<section id="about" class="about-section scroll-spy-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Programme Philosophy & Objectives</h2>
+      <div class="header-line"></div>
+    </div>
+    
+    <div class="philosophy-card">
+      <div class="card-icon"><i class="fa-solid fa-quote-left"></i></div>
+      <p>{{ program.philosophy }}</p>
+    </div>
+
+    <div class="objectives-grid">
+      {% for obj in program.objectives %}
+      <div class="objective-card">
+        <div class="objective-num">0{{ loop.index }}</div>
+        <p>{{ obj }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Target Audience Section -->
+<section id="audience" class="audience-section scroll-spy-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Target Audience</h2>
+      <p class="section-subtitle">Faculty members from the following streams are eligible and encouraged to apply</p>
+      <div class="header-line"></div>
+    </div>
+
+    <div class="audience-grid">
+      {% for aud in program.target_audience %}
+      <div class="audience-card">
+        <div class="audience-icon">
+          {% if aud == "Mathematics" %}
+            <i class="fa-solid fa-calculator"></i>
+          {% elif aud == "Statistics" %}
+            <i class="fa-solid fa-chart-line"></i>
+          {% elif aud == "Physics" %}
+            <i class="fa-solid fa-atom"></i>
+          {% elif aud == "Chemistry" %}
+            <i class="fa-solid fa-flask"></i>
+          {% elif aud == "Computer Science" %}
+            <i class="fa-solid fa-laptop-code"></i>
+          {% else %}
+            <i class="fa-solid fa-microscope"></i>
+          {% endif %}
+        </div>
+        <h3>{{ aud }}</h3>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Course Structure Section -->
+<section id="features" class="features-section scroll-spy-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Course Structure & Features</h2>
+      <div class="header-line"></div>
+    </div>
+
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fa-solid fa-calendar"></i></div>
+        <h3>Duration</h3>
+        <p>{{ program.features.duration }}</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fa-solid fa-clock"></i></div>
+        <h3>Daily Schedule</h3>
+        <p>{{ program.features.daily_schedule }}</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fa-solid fa-hourglass-half"></i></div>
+        <h3>Session Length</h3>
+        <p>{{ program.features.session_length }}</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fa-solid fa-award"></i></div>
+        <h3>Career Advancement</h3>
+        <p>{{ program.features.cas }}</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fa-solid fa-wallet"></i></div>
+        <h3>Registration Fee</h3>
+        <p>{{ program.features.fee }}</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fa-solid fa-globe"></i></div>
+        <h3>Mode of Conduct</h3>
+        <p>{{ program.features.mode }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Confirmed Speakers Section -->
+<section id="speakers" class="speakers-section scroll-spy-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Confirmed Speakers & Resource Persons</h2>
+      <p class="section-subtitle">Lecture topics and exact schedules are updated continuously as they are finalized.</p>
+      <div class="header-line"></div>
+    </div>
+
+    <div class="speakers-grid">
+      {% for speaker in speakers %}
+      <div class="speaker-card">
+        <div class="speaker-info">
+          <div class="speaker-avatar">
+            <i class="fa-solid fa-user"></i>
+          </div>
+          <div class="speaker-meta">
+            <h3>{{ speaker.name }}</h3>
+            <span class="badge-sessions">{{ speaker.sessions }} sessions</span>
+          </div>
+        </div>
+        <div class="speaker-topic">
+          <h4>Topic / Title</h4>
+          <p>{{ speaker.topic }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Schedule Section -->
+<section id="schedule" class="schedule-section scroll-spy-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Programme Schedule</h2>
+      <p class="section-subtitle">Click on a day to expand its sessions and schedule details.</p>
+      <div class="header-line"></div>
+    </div>
+
+    <div class="schedule-accordion">
+      {% for day in schedule %}
+      <details class="schedule-day" {% if loop.first %}open{% endif %}>
+        <summary class="day-header">
+          <div class="day-title-wrapper">
+            <i class="fa-solid fa-calendar-day"></i>
+            <span class="day-title">{{ day.day }}</span>
+          </div>
+          <span class="toggle-icon"><i class="fa-solid fa-chevron-down"></i></span>
+        </summary>
+        <div class="day-sessions">
+          <div class="sessions-list">
+            {% for session in day.sessions %}
+            <div class="session-card {% if session.speaker == 'TBD' or session.speaker == 'To be updated' %}tbd-session{% endif %}">
+              <div class="session-left">
+                <span class="session-num">Session {{ loop.index }}</span>
+                <span class="session-time"><i class="fa-solid fa-clock"></i> {{ session.time }}</span>
+              </div>
+              <div class="session-right">
+                <h4 class="session-topic">{{ session.topic }}</h4>
+                <p class="session-speaker">
+                  <i class="fa-solid fa-user-tie"></i> 
+                  <span>Speaker: </span><strong>{{ session.speaker }}</strong>
+                </p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </details>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Registration & Contact Section -->
+<section id="register" class="register-section scroll-spy-section">
+  <div class="container">
+    <div class="register-grid">
+      <div class="register-info-panel">
+        <h2>Ready to Apply?</h2>
+        <p>Registration is completely free. Please apply through either the official UGC Malaviya Mission Portal or the Kannur University website using the links provided.</p>
+        <div class="portal-links">
+          {% for portal in program.registration.portals %}
+          <a href="{{ portal.url }}" target="_blank" class="portal-btn">
+            <span class="portal-name">{{ portal.name }}</span>
+            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+      
+      <div id="contact" class="contact-panel">
+        <h2>Contact Details</h2>
+        <div class="contact-list">
+          <div class="contact-item">
+            <div class="contact-icon"><i class="fa-solid fa-user-shield"></i></div>
+            <div class="contact-detail">
+              <h4>{{ program.contacts.director }}</h4>
+              <p>Host Center Office</p>
+            </div>
+          </div>
+          <div class="contact-item">
+            <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>
+            <div class="contact-detail">
+              <h4>Phone Numbers</h4>
+              <p>{{ program.contacts.phone }}</p>
+            </div>
+          </div>
+          <div class="contact-item">
+            <div class="contact-icon"><i class="fa-solid fa-envelope"></i></div>
+            <div class="contact-detail">
+              <h4>Email Address</h4>
+              <p><a href="mailto:{{ program.contacts.email }}">{{ program.contacts.email }}</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
