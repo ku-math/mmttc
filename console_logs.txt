@@ -1,0 +1,9 @@
+[log][http://localhost:8080/.11ty/reload-client.js:20:17] [11ty][12:54:49.251 UTC] Connected
+[error][http://localhost:8080/favicon.ico:0:0] Failed to load resource: the server responded with a status of 404 (Not Found)
+[log][http://localhost:8080/.11ty/reload-client.js:20:17] [11ty][13:06:03.166 UTC] Page reload initiated.
+[log][:57:29] [11ty][13:06:03.242 UTC] Connected
+[log][:57:29] [11ty][13:12:58.778 UTC] Connected
+[log][:57:29] [11ty][13:16:16.651 UTC] Page reload initiated.
+[log][:57:29] [11ty][13:16:16.725 UTC] Connected
+[log][:57:29] [11ty][13:16:32.316 UTC] Connected
+[log][:57:29] [11ty][13:21:08.336 UTC] Connected
