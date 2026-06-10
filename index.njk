@@ -151,6 +151,9 @@ layout: base.njk
           </div>
           <div class="speaker-meta">
             <h3>{{ speaker.name }}</h3>
+            {% if speaker.institute %}
+            <span class="speaker-institute">{{ speaker.institute }}</span>
+            {% endif %}
             <span class="badge-sessions">{{ speaker.sessions }} sessions</span>
           </div>
         </div>
