@@ -662,6 +662,7 @@ a {
 .speaker-topic p {
   color: var(--color-primary);
   font-weight: 500;
+  white-space: pre-line;
 }
 
 /* ----------------------------------------------------
