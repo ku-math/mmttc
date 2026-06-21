@@ -15,8 +15,8 @@ module.exports = function(eleventyConfig) {
       if (!trimmed || trimmed.toLowerCase().startsWith("day")) {
         continue;
       }
-      const parts = trimmed.split(",");
-      const dayNum = parseInt(parts[0], 10);
+      const parts = trimmed.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+      const dayVal = parts[0].trim().replace(/^"|"$/g, '');
       const sessions = [];
       for (let i = 1; i < parts.length; i++) {
         sessions.push({
@@ -25,7 +25,7 @@ module.exports = function(eleventyConfig) {
         });
       }
       result.push({
-        day: dayNum,
+        day: dayVal,
         sessions: sessions
       });
     }
