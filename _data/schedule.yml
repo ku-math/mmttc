@@ -1,179 +1,138 @@
-- day: "Day 1 (Wednesday, 15-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Inauguration & Keynote"
-      topic: "Inauguration & Keynote"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "K N Raghavan"
-      topic: "Constructions using Ruler and Compass"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "K N Raghavan"
-      topic: "Constructions using Ruler and Compass"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Ajith Parameswaran"
-      topic: "Modern Astronomy: From Galileo to Gravitational Waves"
+slots:
+  1: "10:00 AM - 11:30 AM"
+  2: "11:45 AM - 01:15 PM"
+  3: "02:00 PM - 03:30 PM"
+  4: "03:45 PM - 05:15 PM"
 
-- day: "Day 2 (Thursday, 16-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Joby K Jose S"
-      topic: "To be updated"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Joby K Jose S"
-      topic: "To be updated"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "TBD"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Ajith Parameswaran"
-      topic: "Bayesian Inference and the Scientific Method"
+days:
+  - day: "Day 1 (Wednesday, 15-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Inauguration"
+      - slot: 2
+        talk: "Raghavan-1"
+      - slot: 3
+        talk: "Raghavan-2"
+      - slot: 4
+        talk: "Parameswaran-1"
 
-- day: "Day 3 (Friday, 17-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "A K Nandakumaran"
-      topic: "To be updated"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "A K Nandakumaran"
-      topic: "To be updated"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "Pranav Haridas"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Pranav Haridas"
-      topic: "To be updated"
+  - day: "Day 2 (Thursday, 16-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Joby-1"
+      - slot: 2
+        talk: "Joby-2"
+      - slot: 3
+        talk: "TBD"
+      - slot: 4
+        talk: "Parameswaran-2"
 
-- day: "Day 4 (Saturday, 18-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Venkatesh"
-      topic: "Different shades of infinity"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Venkatesh"
-      topic: "Different shades of infinity"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "Renjith T"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Renjith T"
-      topic: "To be updated"
+  - day: "Day 3 (Friday, 17-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Nandakumaran-1"
+      - slot: 2
+        talk: "Nandakumaran-2"
+      - slot: 3
+        talk: "Pranav-1"
+      - slot: 4
+        talk: "Pranav-2"
 
-- day: "Day 5 (Monday, 20-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Muruganandam V"
-      topic: "The role of groups in understanding nature"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Muruganandam V"
-      topic: "The role of groups in understanding nature"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "Lakshmipriya"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Lakshmipriya"
-      topic: "To be updated"
+  - day: "Day 4 (Saturday, 18-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Venkatesh-1"
+      - slot: 2
+        talk: "Venkatesh-2"
+      - slot: 3
+        talk: "Renjith-1"
+      - slot: 4
+        talk: "Renjith-2"
 
-- day: "Day 6 (Tuesday, 21-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Prasuna Bandi"
-      topic: "To be updated"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Aswin Govindan Shery"
-      topic: "To be updated"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "Abhishek Ajaykumar"
-      topic: "How Linear Algebra Powers Machine Learning"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Nikhil P Aravindakshan"
-      topic: "To be updated"
+  - day: "Day 5 (Monday, 20-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Muruganandam-1"
+      - slot: 2
+        talk: "Muruganandam-2"
+      - slot: 3
+        talk: "Lakshmipriya-1"
+      - slot: 4
+        talk: "Lakshmipriya-2"
 
-- day: "Day 7 (Wednesday, 22-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Jaydeb Sarkar"
-      topic: "A crash course in calculus"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "TBD"
-      topic: "To be updated"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "Sayantan Chakraborty"
-      topic: "The Mathematics of Vision: From Pixels to Neurons and Beyond"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Sayantan Chakraborty"
-      topic: "The Mathematics of Vision: From Pixels to Neurons and Beyond"
+  - day: "Day 6 (Tuesday, 21-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Prasuna-1"
+      - slot: 2
+        talk: "Aswin-1"
+      - slot: 3
+        talk: "Abhishek-1"
+      - slot: 4
+        talk: "Nikhil-1"
 
-- day: "Day 8 (Thursday, 23-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Kaushal Verma"
-      topic: "To be updated"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Kaushal Verma"
-      topic: "To be updated"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "Aswin Govindan Shery"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "TBD"
-      topic: "To be updated"
+  - day: "Day 7 (Wednesday, 22-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Jaydeb-1"
+      - slot: 2
+        talk: "TBD"
+      - slot: 3
+        talk: "Sayantan-1"
+      - slot: 4
+        talk: "Sayantan-2"
 
-- day: "Day 9 (Friday, 24-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "P. Jishnu Sai"
-      topic: "To be updated"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Sanjay Parui"
-      topic: "To be updated"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "TBD"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "TBD"
-      topic: "To be updated"
+  - day: "Day 8 (Thursday, 23-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Kaushal-1"
+      - slot: 2
+        talk: "Kaushal-2"
+      - slot: 3
+        talk: "Aswin-2"
+      - slot: 4
+        talk: "TBD"
 
-- day: "Day 10 (Saturday, 25-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Krishna Hanumanthu"
-      topic: "Connecting the Dots: The History, Geometry, and Applications of Interpolation"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Krishna Hanumanthu"
-      topic: "Connecting the Dots: The History, Geometry, and Applications of Interpolation"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "Annapareddy Tulasi Ram Reddy"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Annapareddy Tulasi Ram Reddy"
-      topic: "To be updated"
+  - day: "Day 9 (Friday, 24-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Jishnu-1"
+      - slot: 2
+        talk: "Sanjay-1"
+      - slot: 3
+        talk: "TBD"
+      - slot: 4
+        talk: "TBD"
 
-- day: "Day 11 (Monday, 27-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Rajula Srivastava"
-      topic: "To be updated"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "Jaydeb Sarkar"
-      topic: "A panorama of linear operators: past, present, and future"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "TBD"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "TBD"
-      topic: "To be updated"
+  - day: "Day 10 (Saturday, 25-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Krishna-1"
+      - slot: 2
+        talk: "Krishna-2"
+      - slot: 3
+        talk: "Tulsiram-1"
+      - slot: 4
+        talk: "Tulsiram-2"
 
-- day: "Day 12 (Tuesday, 28-July-2026)"
-  sessions:
-    - time: "10:00 AM - 11:30 AM"
-      speaker: "Prasuna Bandi"
-      topic: "To be updated"
-    - time: "11:45 AM - 01:15 PM"
-      speaker: "TBD"
-      topic: "To be updated"
-    - time: "02:00 PM - 03:30 PM"
-      speaker: "TBD"
-      topic: "To be updated"
-    - time: "03:45 PM - 05:15 PM"
-      speaker: "Valedictory Session"
-      topic: "Valedictory & Feedback Collection"
+  - day: "Day 11 (Monday, 27-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Rajula-1"
+      - slot: 2
+        talk: "Jaydeb-2"
+      - slot: 3
+        talk: "TBD"
+      - slot: 4
+        talk: "TBD"
+
+  - day: "Day 12 (Tuesday, 28-July-2026)"
+    sessions:
+      - slot: 1
+        talk: "Prasuna-2"
+      - slot: 2
+        talk: "TBD"
+      - slot: 3
+        talk: "TBD"
+      - slot: 4
+        talk: "Valedictory"
