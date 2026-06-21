@@ -7,10 +7,14 @@ address: "Thavakkara, Civil Station. P.O., Kannur District, Kerala - 670 002"
 philosophy: |
   The central philosophy of this refresher course is to present mathematics as a foundational language of modern science and technology, viewed from the perspective of a broad scientific audience rather than that of specialists alone.
 objectives:
-  - "Exposing participants to important mathematical ideas, themes, and developments that significantly influence contemporary scientific research."
-  - "Ensuring concepts remain accessible to faculty members from diverse academic backgrounds."
-  - "Emphasizing intuition, motivation, practical applications, historical development, and cross-disciplinary connections with science and technology over strictly technical details and rigorous proofs."
-  - "Helping participants appreciate the overarching beauty, power, and relevance of mathematics across various disciplines."
+  - title: "Mathematics spoken by everyone who uses it."
+    description: "Hear mathematicians, physicists, statisticians, computer scientists, engineers, and industry experts present mathematics through the lens of their own disciplines."
+  - title: "If mathematics fascinates you, this programme is for you."
+    description: "Designed for anyone from science, engineering, or technology who wants to discover how mathematics shapes modern research and innovation."
+  - title: "More than 40 engaging expository lectures."
+    description: "Explore beautiful mathematical ideas, their applications, historical evolution, and their role in contemporary science—without the emphasis on technical proofs."
+  - title: "Accessible, intuitive, and enjoyable."
+    description: "Every lecture is paced for a broad scientific audience and assumes only a basic undergraduate background in mathematics."
 target_audience:
   - "Mathematics"
   - "Statistics"

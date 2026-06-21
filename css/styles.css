@@ -431,6 +431,12 @@ a {
   color: var(--color-secondary);
 }
 
+.objective-card h3 {
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
 .objective-card p {
   color: var(--text-dark);
   font-size: 0.95rem;
