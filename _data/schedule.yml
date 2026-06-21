@@ -1,4 +1,4 @@
-- day: "Day 1 (Wednesday, 15-July-2026)"
+- day: 1
   sessions:
     - slot: 1
       talk: "Inauguration"
@@ -9,7 +9,7 @@
     - slot: 4
       talk: "Parameswaran-1"
 
-- day: "Day 2 (Thursday, 16-July-2026)"
+- day: 2
   sessions:
     - slot: 1
       talk: "Joby-1"
@@ -20,7 +20,7 @@
     - slot: 4
       talk: "Parameswaran-2"
 
-- day: "Day 3 (Friday, 17-July-2026)"
+- day: 3
   sessions:
     - slot: 1
       talk: "Nandakumaran-1"
@@ -31,7 +31,7 @@
     - slot: 4
       talk: "Pranav-2"
 
-- day: "Day 4 (Saturday, 18-July-2026)"
+- day: 4
   sessions:
     - slot: 1
       talk: "Venkatesh-1"
@@ -42,7 +42,7 @@
     - slot: 4
       talk: "Renjith-2"
 
-- day: "Day 5 (Monday, 20-July-2026)"
+- day: 5
   sessions:
     - slot: 1
       talk: "Muruganandam-1"
@@ -53,7 +53,7 @@
     - slot: 4
       talk: "Lakshmipriya-2"
 
-- day: "Day 6 (Tuesday, 21-July-2026)"
+- day: 6
   sessions:
     - slot: 1
       talk: "Prasuna-1"
@@ -64,7 +64,7 @@
     - slot: 4
       talk: "Nikhil-1"
 
-- day: "Day 7 (Wednesday, 22-July-2026)"
+- day: 7
   sessions:
     - slot: 1
       talk: "Jaydeb-1"
@@ -75,19 +75,18 @@
     - slot: 4
       talk: "Sayantan-2"
 
-- day: "Day 8 (Thursday, 23-July-2026)"
+- day: 8
   sessions:
     - slot: 1
       talk: "Kaushal-1"
     - slot: 2
       talk: "Kaushal-2"
-      # Note: Kaushal has two sessions, both are To be updated.
     - slot: 3
       talk: "Aswin-2"
     - slot: 4
       talk: "TBD"
 
-- day: "Day 9 (Friday, 24-July-2026)"
+- day: 9
   sessions:
     - slot: 1
       talk: "Jishnu-1"
@@ -98,7 +97,7 @@
     - slot: 4
       talk: "TBD"
 
-- day: "Day 10 (Saturday, 25-July-2026)"
+- day: 10
   sessions:
     - slot: 1
       talk: "Krishna-1"
@@ -109,7 +108,7 @@
     - slot: 4
       talk: "Tulsiram-2"
 
-- day: "Day 11 (Monday, 27-July-2026)"
+- day: 11
   sessions:
     - slot: 1
       talk: "Rajula-1"
@@ -120,7 +119,7 @@
     - slot: 4
       talk: "TBD"
 
-- day: "Day 12 (Tuesday, 28-July-2026)"
+- day: 12
   sessions:
     - slot: 1
       talk: "Prasuna-2"
