@@ -182,7 +182,7 @@ layout: base.njk
     </div>
 
     <div class="schedule-accordion">
-      {% for day in schedule.days %}
+      {% for day in schedule %}
       <details class="schedule-day" {% if loop.first %}open{% endif %}>
         <summary class="day-header">
           <div class="day-title-wrapper">
@@ -194,8 +194,8 @@ layout: base.njk
         <div class="day-sessions">
           <div class="sessions-list">
             {% for session in day.sessions %}
-            {% set talk = keywords[session.talk] %}
-            {% set time = schedule.slots[session.slot] %}
+            {% set talk = keywords.talks[session.talk] %}
+            {% set time = keywords.slots[session.slot] %}
             <div class="session-card {% if talk.speaker == 'TBD' or talk.speaker == 'To be updated' %}tbd-session{% endif %}">
               <div class="session-left">
                 <span class="session-num">Session {{ session.slot }}</span>
