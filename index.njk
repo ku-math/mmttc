@@ -151,7 +151,11 @@ layout: base.njk
             <i class="fa-solid fa-user"></i>
           </div>
           <div class="speaker-meta">
+            {% if speaker.website %}
+            <h3><a href="{{ speaker.website }}" target="_blank">{{ speaker.name }} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.7em; opacity: 0.6;"></i></a></h3>
+            {% else %}
             <h3>{{ speaker.name }}</h3>
+            {% endif %}
             {% if speaker.institute %}
             <span class="speaker-institute">{{ speaker.institute }}</span>
             {% endif %}
@@ -196,11 +200,11 @@ layout: base.njk
                 <span class="session-time"><i class="fa-solid fa-clock"></i> {{ session.time }}</span>
               </div>
               <div class="session-right">
-                <h4 class="session-topic">{{ session.topic }}</h4>
-                <p class="session-speaker">
+                <h4 class="session-speaker">
                   <i class="fa-solid fa-user-tie"></i> 
-                  <span>Speaker: </span><strong>{{ session.speaker }}</strong>
-                </p>
+                  <span>{{ session.speaker }}</span>
+                </h4>
+                <p class="session-topic">{{ session.topic }}</p>
               </div>
             </div>
             {% endfor %}
