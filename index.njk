@@ -145,26 +145,54 @@ layout: base.njk
 
     <div class="speakers-grid">
       {% for speaker in speakers %}
-      <div class="speaker-card">
-        <div class="speaker-info">
+      <div class="speaker-card-container">
+        <!-- Invisible placeholder header to reserve collapsed grid item size dynamically -->
+        <div class="speaker-placeholder-header">
           <div class="speaker-avatar">
             <i class="fa-solid fa-user"></i>
           </div>
-          <div class="speaker-meta">
+          <div class="speaker-meta-compact">
             {% if speaker.website %}
             <h3><a href="{{ speaker.website }}" target="_blank">{{ speaker.name }} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.7em; opacity: 0.6;"></i></a></h3>
             {% else %}
             <h3>{{ speaker.name }}</h3>
             {% endif %}
-            {% if speaker.institute %}
-            <span class="speaker-institute">{{ speaker.institute }}</span>
-            {% endif %}
-            <span class="badge-sessions">{{ speaker.sessions }} sessions</span>
+          </div>
+          <div class="speaker-expand-icon">
+            <i class="fa-solid fa-chevron-down"></i>
           </div>
         </div>
-        <div class="speaker-topic">
-          <h4>Topic / Title</h4>
-          <p>{{ speaker.topic }}</p>
+        
+        <div class="speaker-card">
+          <div class="speaker-header">
+            <div class="speaker-avatar">
+              <i class="fa-solid fa-user"></i>
+            </div>
+            <div class="speaker-meta-compact">
+              {% if speaker.website %}
+              <h3><a href="{{ speaker.website }}" target="_blank">{{ speaker.name }} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.7em; opacity: 0.6;"></i></a></h3>
+              {% else %}
+              <h3>{{ speaker.name }}</h3>
+              {% endif %}
+            </div>
+            <div class="speaker-expand-icon">
+              <i class="fa-solid fa-chevron-down"></i>
+            </div>
+          </div>
+          <div class="speaker-details-wrapper">
+            <div class="speaker-details-content">
+              <div class="speaker-details-inner">
+                {% if speaker.institute %}
+                <span class="speaker-institute">{{ speaker.institute }}</span>
+                {% endif %}
+                <span class="badge-sessions">{{ speaker.sessions }} sessions</span>
+                <div class="speaker-topic">
+                  <h4>Topic / Title</h4>
+                  <p>{{ speaker.topic }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       {% endfor %}
