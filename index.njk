@@ -273,6 +273,15 @@ layout: base.njk
               <p>Host Center Office</p>
             </div>
           </div>
+          {% if program.contacts.organizer %}
+          <div class="contact-item">
+            <div class="contact-icon"><i class="fa-solid fa-user-tie"></i></div>
+            <div class="contact-detail">
+              <h4>{{ program.contacts.organizer }}</h4>
+              <p>Organizer</p>
+            </div>
+          </div>
+          {% endif %}
           <div class="contact-item">
             <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>
             <div class="contact-detail">
