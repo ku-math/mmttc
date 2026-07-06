@@ -1,20 +1,87 @@
-Confirmed participants: 
-1. Pranav Haridas - KSoM -  2 sessions 
-2. Renjith T - Govt College Kasaragod - 2 sessions 
-3. Nikhil - 1 sessions 
-4. Muruganandam - 2 sessions  + 
-5. Kaushal Verma - 2 sessions 
-6. Krishna Hanumanthu - one or two sessions 
-7. Jaydeb sarkar  - 2 sessions 
-8. Prasuna - one or two sessions 
-9. Ajith Parameswaran - 2 sessions 
-10. Nandakumaran - 2 sessions
-11. KNR ( Partially agreed) - 2 sessions 
-12. Lakshmipriya - 2 session 
-13. Tulsiram - 2 sessions 
-14. Govind 1 - 2 sessions 
-15. Jishnu 1 session 
-16. Abhishek 1 seasons 
+1. K N Raghavan:
 
+Professor Raghavan K N obtained his PhD in Mathematics from Purdue University in 1991. After a two-year stint at Michigan State University as a Postdoc, he joined the Chennai Mathematical Institute as Faculty in 1993. He moved to the Institute of Mathematical Sciences (IMSc) in 2001, from where he retired voluntarily in 2024 as a Senior Professor. He specialises in the representation theory of groups and algebras and is the co-author, with Professor V Lakshmibai, of a monograph on Standard Monomial Theory: an Invariant Theoretic Approach.
 
-Total 26 -  31 sessions
+2. A K Nandakumaran:
+
+Professor A. K. Nandakumaran is a Professor in the Department of Mathematics at the Indian Institute of Science (IISc), Bangalore. He obtained his MSc in Mathematics from Calicut University, Kerala, and his PhD from the Tata Institute of Fundamental Research (TIFR), Bangalore. His general area of research includes partial differential equations, with special interest in homogenization, control and controllability, inverse problems, and tomographic reconstruction. He has co-authored several books, including Ordinary Differential Equations: Principles and Applications (2017) and Partial Differential Equations: Classical Theory with a Modern Touch (2020), and is a recipient of the Sir C. V. Raman Young Scientist State Award in Mathematics.
+
+3. Krishna Hanumanthu:
+
+Professor Krishna Hanumanthu is a Professor of Mathematics at the Chennai Mathematical Institute (CMI). He obtained his PhD in Mathematics from the University of Missouri, Columbia in 2008 under the guidance of Professor Dale Cutkosky. Prior to joining CMI in 2011, he spent three years as a postdoctoral researcher at the University of Kansas, Lawrence. His research interests lie in algebraic geometry and commutative algebra.
+
+4. Kaushal Verma:
+
+Professor Kaushal Verma is a Professor in the Department of Mathematics and the Dean of the Division of Physical and Mathematical Sciences at the Indian Institute of Science (IISc), Bangalore. He obtained his BTech in Engineering Physics from IIT Bombay in 1992 and his PhD in Mathematics from Indiana University Bloomington in 1999. Prior to joining IISc in 2004, he held positions at Syracuse University and the University of Michigan, Ann Arbor. His research specializes in complex analysis, differential geometry, and the history of mathematics, and he is a recipient of the Shanti Swarup Bhatnagar Prize in 2014.
+
+5. Parameswaran Ajith:
+
+Professor Parameswaran Ajith is an astrophysicist and Professor at the International Centre for Theoretical Sciences (ICTS), Tata Institute of Fundamental Research (TIFR), Bangalore. He obtained his BSc in Physics from the University of Calicut in 2000, his MSc from Mahatma Gandhi University in 2003, and his PhD from the Max Planck Institute for Gravitational Physics and Leibniz University Hannover, Germany in 2007. Prior to joining ICTS in 2013, he was a postdoctoral researcher at the Albert Einstein Institute and the California Institute of Technology (Caltech). His research focuses on gravitational-wave astronomy, where he pioneered phenomenological models for gravitational waves from merging binary black holes, and he is a Fellow of the Indian Academy of Sciences.
+
+6. Jaydeb Sarkar:
+
+Professor Jaydeb Sarkar is a Professor and the Professor-in-Charge of the Theoretical Statistics and Mathematics Division at the Indian Statistical Institute (ISI), Bangalore. He obtained his BSc from Vidyasagar Evening College, his MSc from the University of Calcutta, and his PhD in Mathematics from the Indian Institute of Science (IISc), Bangalore in 2006. His research focuses on functional analysis, operator theory (specifically multivariable operator theory), complex analysis, and operator algebras. He is a recipient of the NASI-Scopus Young Scientist Award in 2016 and is a Fellow of the Indian Academy of Sciences.
+
+7. Rajula Srivastava:
+
+Professor Rajula Srivastava is an Assistant Professor in the Department of Mathematics at the University of Wisconsin-Madison. She completed her Integrated MSc degree before obtaining her PhD in Mathematics from the University of Wisconsin-Madison in 2022 under the supervision of Andreas Seeger. After graduating, she held a Hirzebruch Research Instructorship with joint appointments at the University of Bonn and the Max Planck Institute for Mathematics, and she was a research visitor at the University of Edinburgh. Her research interests center on harmonic analysis and number theory, particularly counting rational or lattice points near manifolds, and she is the recipient of the Maryam Mirzakhani New Frontiers Prize in 2025.
+
+8. Sanjay Parui:
+
+Dr. Sanjay Parui is an Associate Professor in the School of Mathematical Sciences at the National Institute of Science Education and Research (NISER), Bhubaneswar. He obtained his MSc in Mathematics from the University of Calcutta in 1999 and his PhD from the Indian Statistical Institute (ISI), Bangalore Centre in 2005. Before joining NISER in 2009, he was a recipient of the National Board for Higher Mathematics (NBHM) Post Doctoral Fellowship. His primary research interests are in functional analysis and Euclidean harmonic analysis, specifically studying Dunkl operators and general Fourier analysis.
+
+9. Varadharajan Muruganandam:
+
+Professor Varadharajan Muruganandam is a Professor in the Department of Mathematics at the Indian Institute of Technology (IIT) Palakkad. He obtained his PhD in Mathematics from the Indian Institute of Technology (IIT) Kanpur. Prior to joining IIT Palakkad, he was a faculty member at Pondicherry University and the School of Mathematical Sciences at the National Institute of Science Education and Research (NISER), Bhubaneswar, and has held visiting positions including at Purdue University. His research interests focus on harmonic analysis, Fourier algebras of locally compact groups, homogeneous spaces, and representation theory.
+
+10. R. Venkatesh:
+
+Dr. R. Venkatesh is an Associate Professor in the Department of Mathematics at the Indian Institute of Science (IISc), Bangalore. He obtained his PhD in Mathematics through the Tata Institute of Fundamental Research (TIFR), Mumbai and The Institute of Mathematical Sciences (IMSc), Chennai in 2012 under the supervision of Professor S. Viswanath. Prior to joining IISc, he held faculty positions at the Indian Institute of Technology (IIT) Madras. His research focuses on representation theory of infinite-dimensional Lie algebras and algebraic combinatorics, and he was selected as an Associate of the Indian Academy of Sciences in 2018.
+
+11. Hari Varma:
+
+Dr. Hari M. Varma is an Associate Professor in the Department of Biosciences and Bioengineering (BSBE) at the Indian Institute of Technology (IIT) Bombay. He obtained his BTech in Instrumentation from Cochin University of Science and Technology (CUSAT) and his PhD from the Instrumentation and Applied Physics department at the Indian Institute of Science (IISc), Bangalore. Prior to joining IIT Bombay, he was a postdoctoral researcher at Aalto University in Finland. His research focuses on biomedical engineering and medical optics, particularly developing laser speckle-based imaging, diffuse correlation spectroscopy, and computational optical imaging for monitoring blood flow.
+
+12. Prasuna Bandi:
+
+Dr. Prasuna Bandi is an Assistant Professor in the School of Mathematics at the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram. She obtained her PhD in Mathematics from the Tata Institute of Fundamental Research (TIFR), Mumbai in 2021 under the supervision of Professor Anish Ghosh. Following her doctoral studies, she held postdoctoral positions as a Postdoctoral Assistant Professor at the University of Michigan, Ann Arbor, and as a CARMIN Postdoctoral Fellow at the Institut des Hautes Études Scientifiques (IHES) in France. Her research interests lie in homogeneous dynamics, ergodic theory, fractal geometry, and Diophantine approximation.
+
+13. Lakshmi Priya:
+
+Dr. Lakshmi Priya M. E. is an Assistant Professor (Grade I) in the Theoretical Statistics and Mathematics Unit at the Indian Statistical Institute (ISI), Bangalore Centre. She obtained her PhD in Mathematics from the Indian Institute of Science (IISc), Bangalore in 2021 under the supervision of Professor Manjunath Krishnapur, writing a thesis on the nodal sets of random functions. Following her PhD, she worked as a postdoctoral researcher at Tel Aviv University in Israel. Her research interests center on analysis and probability, specifically the study of nodal volumes of harmonic functions and stationary Gaussian processes.
+
+14. Annapareddy Tulasi Ram Reddy:
+
+Dr. Annapareddy Tulasi Ram Reddy is a researcher and educator who has held visiting and teaching roles at the Indian School of Business (ISB) and the Indian Institute of Science Education and Research (IISER), Pune. He obtained his BStat (Hons) and MStat degrees from the Indian Statistical Institute (ISI), Kolkata, and his PhD in Mathematics from the Indian Institute of Science (IISc), Bangalore in 2015. Following his doctoral studies, he served as a Postdoctoral Associate at NYU Abu Dhabi from 2016 to 2019, and has worked in the portfolio risk domain at BlackRock. His research focuses on probability theory, including random matrices, zeros of random polynomials, lattice models, and Brownian loop soups.
+
+15. P. Jishnu Sai:
+
+Dr. P. Jishnu Sai (Jishnu Sai Puthiyedath) is a Postdoctoral Researcher in the Theoretical Cosmology Group at Ewha Womans University in Seoul, South Korea. He obtained his BSc in Physics from Government College Madappally, Kozhikode, Kerala in 2017, and completed his MSc in Physical Sciences in 2019 followed by his PhD in Physics in 2026, both from the Indian Institute of Science (IISc), Bangalore. His research interests focus on early universe physics, theoretical cosmology, gravitation, and quantum field theory, including inflationary perturbations and non-Gaussianities.
+
+16. Abhishek Ajaykumar:
+
+Dr. Abhishek Ajayakumar is a Senior Researcher at the Physical AI Laboratory, Fujitsu Research of India Private Limited in Bengaluru. He obtained his PhD in Computational and Data Sciences from the Indian Institute of Science (IISc), Bangalore in 2024, writing a thesis on the sparsification of reaction-diffusion dynamical systems on complex networks. Before joining Fujitsu Research of India as a Senior Researcher, he worked as an Applied Researcher at the Fujitsu Research and Development Center. His research interests lie in spectral graph theory, graph machine learning, numerical optimization, and Physical AI.
+
+17. Nikhil P Aravindakshan:
+
+Dr. Nikhil P. Aravindakshan is a Senior Lab Instructor and the Principal Investigator of the Aravind Lab of Computational Molecular Sciences (ALCMS) in the Department of Chemistry at the University of Northern British Columbia (UNBC). He obtained his PhD in Chemistry from the University of Regina in 2018, where he conducted research under the supervision of Dr. Allan East on structure and transport phenomena in molten salts and protic ionic liquids. His research interests focus on theoretical and computational chemistry, including molecular modeling, transport properties of condensed phases, and weak intermolecular interactions.
+
+18. Aswin Govindan Shery:
+
+Dr. Aswin Govindan Shery (Sheri) is an Assistant Professor in the Department of Mathematics at Azim Premji University, Bhopal. He obtained his PhD in Mathematics in 2023 from the University of Edinburgh, where he was a member of the Maxwell Institute Graduate School in Analysis and its Applications (MIGSAA) and was supervised by Dr. Jonathan Hickman. Following his PhD, he worked as an ANRF-National Postdoctoral Fellow in the Department of Mathematics at IISER Berhampur. His research specializes in Euclidean harmonic analysis and geometric measure theory, particularly maximal functions, Kakeya sets, and Fourier series.
+
+19. Sayantan Chakraborty:
+
+Sayantan Chakraborty is a Responsible AI Specialist and Team Lead (Data & AI) at Accenture, Kolkata. He obtained his BSc (Hons) in Mathematics and Statistics from the Chennai Mathematical Institute (CMI) in 2014, his MSc in Mathematics from the University of Hyderabad in 2018, and his MTech in Cryptology and Security from the Indian Statistical Institute (ISI), Kolkata in 2021. His expertise and research interests focus on the ethical integrity, safety, and interpretability of artificial intelligence, particularly large language models (LLMs) and medical AI, and topics in the mathematics of computer vision.
+
+20. Joby K Jose:
+
+Prof. (Dr.) Joby K. Jose is a Professor in the Department of Statistical Sciences and the Registrar of Kannur University, Kerala. He completed his MSc and MPhil in Statistics, and holds a PhD in Statistics. His research interests and publications lie in stochastic modeling, distribution theory, queueing theory, statistical computing, finite mixture models, and stress-strength reliability models. He has served as a PhD supervisor and examiner for several universities in Kerala.
+
+21. Pranav Haridas:
+
+Dr. Pranav Haridas is an Assistant Professor in the Department of Mathematics at the Kerala School of Mathematics (KSoM), Kozhikode. He obtained his BMath (Hons) from the Indian Statistical Institute (ISI), Bangalore, his ALGANT Master's degree jointly from Université Paris-Sud in France and Università di Padova in Italy, and his PhD in Mathematics from the Indian Institute of Science (IISc), Bangalore in 2015. Following his PhD, he worked as a postdoctoral fellow at the Chennai Mathematical Institute (CMI) and the Indian Institute of Technology (IIT) Madras. His research focuses on complex analysis, including proper holomorphic mappings, quadrature domains, and the structure and dynamics of surface braid groups, and he is a popular NPTEL online course instructor.
+
+22. Renjith T:
+
+Dr. Renjith T (Renjith Thazhathethil) is an Assistant Professor in the Department of Mathematics at Government College, Kasaragod, Kerala. He obtained his PhD in Mathematics from the Indian Institute of Science (IISc), Bangalore, writing a thesis on the homogenization of PDEs on oscillating boundary domains and optimal control problems. Following his PhD, he worked as a Postdoctoral Researcher at the Indian Statistical Institute (ISI), Bangalore/Kolkata and was a recipient of the NBHM Post-Doctoral Fellowship in 2023. His research interests focus on partial differential equations (PDEs), specifically homogenization and optimal control problems in rough and oscillating domains.
