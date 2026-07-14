@@ -1,6 +1,10 @@
 1. K N Raghavan:
 
-Professor Raghavan K N obtained his PhD in Mathematics from Purdue University in 1991. After a two-year stint at Michigan State University as a Postdoc, he joined the Chennai Mathematical Institute as Faculty in 1993. He moved to the Institute of Mathematical Sciences (IMSc) in 2001, from where he retired voluntarily in 2024 as a Senior Professor. He specialises in the representation theory of groups and algebras and is the co-author, with Professor V Lakshmibai, of a monograph on Standard Monomial Theory: an Invariant Theoretic Approach.
+Professor Raghavan K N obtained his PhD in Mathematics from Purdue University in 1991. After a two-year stint at Michigan State University as a Postdoc, he joined the Chennai Mathematical Institute as Faculty in 1993. He moved to the Institute of Mathematical Sciences (IMSc) in 2001, from where he retired voluntarily in 2024 as a Senior Professor. He specialises in the representation theory of groups and algebras and is the co-author, with Professor V Lakshmibai, of a monograph on Standard Monomial Theory: an Invariant Theoretic Approach. Additionally, Professor K.N. Raghavan holds a key position in the National Board for Higher Mathematics (NBHM), which plays a vital role in promoting and developing mathematics in India
+
+2. Parameswaran Ajith:
+
+Professor Parameswaran Ajith is a Professor at the International Centre for Theoretical Sciences (ICTS), Tata Institute of Fundamental Research (TIFR), Bangalore. He obtained his BSc in Physics from M. E. S. Kalladi College, Mannarkkad, University of Calicut in 2000, his MSc from the School of Pure and Applied Physics, Mahatma Gandhi University in 2003, and his PhD from the Max Planck Institute for Gravitational Physics and Leibniz University Hannover, Germany in 2007. Prior to joining ICTS in 2013, he was a postdoctoral researcher at the Albert Einstein Institute and the California Institute of Technology (Caltech). His research focuses on gravitational-wave astronomy, where he has co-authored works on phenomenological models for gravitational waves from merging binary black holes, and he held an Associateship of the Indian Academy of Sciences from 2014 to 2017 and is a Member of The National Academy of Sciences, India
 
 2. A K Nandakumaran:
 
@@ -14,9 +18,7 @@ Professor Krishna Hanumanthu is a Professor of Mathematics at the Chennai Mathem
 
 Professor Kaushal Verma is a Professor in the Department of Mathematics and the Dean of the Division of Physical and Mathematical Sciences at the Indian Institute of Science (IISc), Bangalore. He obtained his BTech in Engineering Physics from IIT Bombay in 1992 and his PhD in Mathematics from Indiana University Bloomington in 1999. Prior to joining IISc in 2004, he held positions at Syracuse University and the University of Michigan, Ann Arbor. His research specializes in complex analysis, differential geometry, and the history of mathematics, and he is a recipient of the Shanti Swarup Bhatnagar Prize in 2014.
 
-5. Parameswaran Ajith:
 
-Professor Parameswaran Ajith is an astrophysicist and Professor at the International Centre for Theoretical Sciences (ICTS), Tata Institute of Fundamental Research (TIFR), Bangalore. He obtained his BSc in Physics from the University of Calicut in 2000, his MSc from Mahatma Gandhi University in 2003, and his PhD from the Max Planck Institute for Gravitational Physics and Leibniz University Hannover, Germany in 2007. Prior to joining ICTS in 2013, he was a postdoctoral researcher at the Albert Einstein Institute and the California Institute of Technology (Caltech). His research focuses on gravitational-wave astronomy, where he pioneered phenomenological models for gravitational waves from merging binary black holes, and he is a Fellow of the Indian Academy of Sciences.
 
 6. Jaydeb Sarkar:
 
