@@ -6,11 +6,15 @@ Professor Raghavan K N obtained his PhD in Mathematics from Purdue University in
 
 Professor Parameswaran Ajith is a Professor at the International Centre for Theoretical Sciences (ICTS), Tata Institute of Fundamental Research (TIFR), Bangalore. He obtained his BSc in Physics from M. E. S. Kalladi College, Mannarkkad, University of Calicut in 2000, his MSc from the School of Pure and Applied Physics, Mahatma Gandhi University in 2003, and his PhD from the Max Planck Institute for Gravitational Physics and Leibniz University Hannover, Germany in 2007. Prior to joining ICTS in 2013, he was a postdoctoral researcher at the Albert Einstein Institute and the California Institute of Technology (Caltech). His research focuses on gravitational-wave astronomy, where he has co-authored works on phenomenological models for gravitational waves from merging binary black holes, and he held an Associateship of the Indian Academy of Sciences from 2014 to 2017 and is a Member of The National Academy of Sciences, India
 
-2. A K Nandakumaran:
+3. A K Nandakumaran:
 
-Professor A. K. Nandakumaran is a Professor in the Department of Mathematics at the Indian Institute of Science (IISc), Bangalore. He obtained his MSc in Mathematics from Calicut University, Kerala, and his PhD from the Tata Institute of Fundamental Research (TIFR), Bangalore. His general area of research includes partial differential equations, with special interest in homogenization, control and controllability, inverse problems, and tomographic reconstruction. He has co-authored several books, including Ordinary Differential Equations: Principles and Applications (2017) and Partial Differential Equations: Classical Theory with a Modern Touch (2020), and is a recipient of the Sir C. V. Raman Young Scientist State Award in Mathematics.
+Professor A. K. Nandakumaran is a Professor in the Department of Mathematics at the Indian Institute of Science (IISc), Bangalore. He obtained his BSc and MSc in Mathematics from NSS College Ottapalam affiliated to Calicut University, Kerala, and his PhD from the Tata Institute of Fundamental Research - Centre for Applicable Mathematics (TIFR - CAM), Bangalore. His area of research includes partial differential equations, with special interest in Homogenization, Exact Controllability, Optimal Control, Tomography and Image Reconstruction, Viscosity Solutions and Differential Games. He is also an author of several books, including Ordinary Differential Equations: Principles and Applications (2017) and Partial Differential Equations: Classical Theory with a Modern Touch (2020), and is a recipient of the Sir C. V. Raman Young Scientist State Award in Mathematics.
 
-3. Krishna Hanumanthu:
+4. Lakshmi Priya:
+
+Dr. Lakshmi Priya is an Assistant Professor in the Theoretical Statistics and Mathematics Unit at the Indian Statistical Institute (ISI), Bangalore Centre. She obtained her PhD in Mathematics from the Indian Institute of Science (IISc), Bangalore in 2021 under the supervision of Professor Manjunath Krishnapur. Following her PhD, she worked as a postdoctoral researcher at Tel Aviv University in Israel. Her research interests center on analysis and probability, specifically, zeros of Gaussian processes, Laplace eigenfunctions & Harmonic functions.
+
+5. Krishna Hanumanthu:
 
 Professor Krishna Hanumanthu is a Professor of Mathematics at the Chennai Mathematical Institute (CMI). He obtained his PhD in Mathematics from the University of Missouri, Columbia in 2008 under the guidance of Professor Dale Cutkosky. Prior to joining CMI in 2011, he spent three years as a postdoctoral researcher at the University of Kansas, Lawrence. His research interests lie in algebraic geometry and commutative algebra.
 
