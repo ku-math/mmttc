@@ -14,6 +14,13 @@ Professor A. K. Nandakumaran is a Professor in the Department of Mathematics at 
 
 Dr. Lakshmi Priya is an Assistant Professor in the Theoretical Statistics and Mathematics Unit at the Indian Statistical Institute (ISI), Bangalore Centre. She obtained her PhD in Mathematics from the Indian Institute of Science (IISc), Bangalore in 2021 under the supervision of Professor Manjunath Krishnapur. Following her PhD, she worked as a postdoctoral researcher at Tel Aviv University in Israel. Her research interests center on analysis and probability, specifically, zeros of Gaussian processes, Laplace eigenfunctions & Harmonic functions.
 
+5. Sayantan Chakraborty:
+
+Welcome our speaker, Dr. Sayantan Chakraborty, a Responsible AI Associate Manager at Accenture.
+Dr. Sayanthan Chakraborty brings a robust academic background in advanced mathematics and computational science, holding a BSc in Mathematics and Computer Science from the Chennai Mathematical Institute, an MSc in Mathematics from Hyderabad Central University, and an MTech in Cryptology and Security from the Indian Statistical Institute, Kolkata.
+At Accenture, he builds advanced AI platforms, focusing on Generative AI, Computer Vision, and Responsible AI systems that ensure fairness and accuracy.
+Today, he will be presenting his talk: "The Mathematics of Vision: From Pixels to Neurons and Beyond."
+
 5. Krishna Hanumanthu:
 
 Professor Krishna Hanumanthu is a Professor of Mathematics at the Chennai Mathematical Institute (CMI). He obtained his PhD in Mathematics from the University of Missouri, Columbia in 2008 under the guidance of Professor Dale Cutkosky. Prior to joining CMI in 2011, he spent three years as a postdoctoral researcher at the University of Kansas, Lawrence. His research interests lie in algebraic geometry and commutative algebra.
@@ -34,7 +41,7 @@ Professor Rajula Srivastava is an Assistant Professor in the Department of Mathe
 
 8. Sanjay Parui:
 
-Dr. Sanjay Parui is an Associate Professor in the School of Mathematical Sciences at the National Institute of Science Education and Research (NISER), Bhubaneswar. He obtained his MSc in Mathematics from the University of Calcutta in 1999 and his PhD from the Indian Statistical Institute (ISI), Bangalore Centre in 2005. Before joining NISER in 2009, he was a recipient of the National Board for Higher Mathematics (NBHM) Post Doctoral Fellowship. His primary research interests are in functional analysis and Euclidean harmonic analysis, specifically studying Dunkl operators and general Fourier analysis.
+Dr. Sanjay Parui is an Associate Professor in the School of Mathematical Sciences at the National Institute of Science Education and Research (NISER), Bhubaneswar. He obtained his BSc and MSc in Mathematics from the University of Calcutta in 1999 and his PhD from the Indian Statistical Institute (ISI), Bangalore Centre in 2005. Before joining NISER, he was a Post Doctoral Fellow at Indian Statistical Institute (ISI) Kolkatta. His primary research interests are in Harmonic Analysis on Euclidean Spaces and Heisenberg Groups, specifically studying Dunkl operators and general Fourier analysis.
 
 9. Varadharajan Muruganandam:
 
@@ -42,11 +49,11 @@ Professor Varadharajan Muruganandam is a Professor in the Department of Mathemat
 
 10. R. Venkatesh:
 
-Dr. R. Venkatesh is an Associate Professor in the Department of Mathematics at the Indian Institute of Science (IISc), Bangalore. He obtained his PhD in Mathematics through the Tata Institute of Fundamental Research (TIFR), Mumbai and The Institute of Mathematical Sciences (IMSc), Chennai in 2012 under the supervision of Professor S. Viswanath. Prior to joining IISc, he held faculty positions at the Indian Institute of Technology (IIT) Madras. His research focuses on representation theory of infinite-dimensional Lie algebras and algebraic combinatorics, and he was selected as an Associate of the Indian Academy of Sciences in 2018.
+Dr. R. Venkatesh is an Associate Professor in the Department of Mathematics at the Indian Institute of Science, Bangalore. He has built a strong academic foundation, holding a Ph.D. in Mathematics, having completed his research fellowships at both the Tata Institute of Fundamental Research in Mumbai and The Institute of Mathematical Sciences in Chennai. Additionally, he earned an M.Sc in Mathematics from Bharathidasan University, Trichy, and a B.Sc in Mathematics from Thiruvalluvar Govt. Arts College, Rasipuram. Prior to his current position, Dr. Venkatesh held Assistant Professor roles at IIT Madras. He has also completed postdoctoral fellowships at several notable institutions worldwide, including the Weizmann Institute of Science in Israel, the Max Planck Institute for Mathematics in Germany, and the Centre de recherches mathématiques in Canada. In his research, Dr. Venkatesh focuses on algebraic combinatorics and the representation theory of infinite-dimensional Lie algebras.
 
 11. Hari Varma:
 
-Dr. Hari M. Varma is an Associate Professor in the Department of Biosciences and Bioengineering (BSBE) at the Indian Institute of Technology (IIT) Bombay. He obtained his BTech in Instrumentation from Cochin University of Science and Technology (CUSAT) and his PhD from the Instrumentation and Applied Physics department at the Indian Institute of Science (IISc), Bangalore. Prior to joining IIT Bombay, he was a postdoctoral researcher at Aalto University in Finland. His research focuses on biomedical engineering and medical optics, particularly developing laser speckle-based imaging, diffuse correlation spectroscopy, and computational optical imaging for monitoring blood flow.
+Dr. Hari Varma is an Associate Professor in the Department of Biosciences and Bioengineering at the Indian Institute of Technology Bombay. He holds a PhD and an M.Sc(Engg.) in Instrumentation from the Indian Institute of Science (IISc), Bangalore, as well as a B.Tech in Instrumentation from the Cochin University of Science and Technology (CUSAT), Kerala. Prior to his current role, Dr. Varma was a Post-Doctoral Fellow in the Inverse Problem Research Group at Aalto University in Finland, and subsequently worked as a Post-Doctoral Fellow in the Medical Optics Group at the Institute of Photonic Sciences (ICFO) in Spain. Additionally, he is a recipient of the Ramalingaswamy Re-entry Fellowship from the Department of Biotechnology (DBT), India. In his research, Dr. Varma focuses on developing novel optical tools for medical imaging applications. His specific areas of study include laser speckle contrast imaging and diffuse correlation spectroscopy for blood flow measurements, as well as the theoretical and computational aspects of diffuse optical tomography.
 
 12. Prasuna Bandi:
 
